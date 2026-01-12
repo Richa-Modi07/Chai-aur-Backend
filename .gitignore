@@ -1,6 +1,6 @@
 .env
 node_modules
-Models
+/Models
 # Models / ECommerce / category.models.js
 
 # Models / Hospital Management / .
